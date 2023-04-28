@@ -20,20 +20,15 @@ Run php artisan serve
 # Usage
 The app can be accessed at http://localhost:8000.
 
-To add a new student, click the "Add Student" button. Fill out the form and click the "Submit" button.
-To edit an existing student, click the "Edit" button next to the student's name. Make your changes and click the "Update" button.
-To delete a student, click the "Delete" button next to the student's name.
-To search for a student, enter the student's name or email address in the search bar and click the "Search" button.
-To view a list of all students, click the "List Students" button.
+- To add a new student, click the "Add Student" button. Fill out the form and click the "Submit" button.
+- To edit an existing student, click the "Edit" button next to the student's name. Make your changes and click the "Update" button.
+- To delete a student, click the "Delete" button next to the student's name.
+- To search for a student, enter the student's name or email address in the search bar and click the "Search" button.
+- To view a list of all students, click the "List Students" button.
 
 
 ![Logo](https://avatars.githubusercontent.com/u/124328598?s=200&v=4)
 
 
-## Demo
 
-
-
-
-![Logo](https://avatars.githubusercontent.com/u/124328598?s=200&v=4)
 
