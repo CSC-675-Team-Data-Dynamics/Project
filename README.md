@@ -8,15 +8,15 @@ Delete students
 Search for students
 View a list of all students
 # Requirements
-PHP 7.0 or higher
-MySQL 5.7 or higher
+- PHP 7.0 or higher
+- MySQL 5.7 or higher
 Composer
 # Installation
-Clone the repository
-Run composer install
-Create a database and import the database.sql file
-Edit the .env file to set your database credentials
-Run php artisan serve
+- Clone the repository
+- Run composer install
+- Create a database and import the database.sql file
+- Edit the .env file to set your database credentials
+- Run php artisan serve
 # Usage
 The app can be accessed at http://localhost:8000.
 
